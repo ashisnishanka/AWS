@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-06-25T03:54:36.377Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.0" etag="kMhoJSe1KzGoJd3j2ylu" type="github"><diagram id="ARPfZMtG6QDZ4UYK4seX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-25T08:21:18.043Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="92vMhhdbhLPPlUMGLBsg" version="14.8.0" type="github">
+  <diagram id="ARPfZMtG6QDZ4UYK4seX" name="Page-1">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-1" value="DOCKER HOST" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-2" value="C1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="111" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-3" value="C2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="180" width="70" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-6" value="DEFAULT BRIDGE" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="230" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-8" value="C3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-9" value="C4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="180" width="70" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="181" width="70" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-12" value="CUSTOM BRIDGE" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="230" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="310" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C-RcsurLFX-HX0ncA2-l-14" value="&lt;span&gt;S&lt;/span&gt;same docker host default bridge and custom bridge is present ,but default bridge container&amp;nbsp;cannot communicate&amp;nbsp;with&amp;nbsp;each other and all container&amp;nbsp;name and id is also different&lt;br&gt;when you communicate one bridge type to another bridge you need getaway type of bridge type of thing which is nt present in default docker installation&amp;nbsp;&amp;nbsp;&lt;br&gt;so inter bridge commination is not there in docker&amp;nbsp;&lt;br&gt;there is two type of traffic is present ingress and Egress ,if conatiner is created by default egress is enable and when we are going to commicate other we need ingress&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="450" width="970" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
